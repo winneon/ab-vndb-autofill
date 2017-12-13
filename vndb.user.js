@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name VNDB Autofill for AB Editors
-// @version 1.0.0
+// @version 1.0.1
 // @author winneon
 // @description Autofill VNDB information into torrent group pages to save time for AnimeBytes Editors.
 // @namespace https://github.com/winneon
@@ -11,7 +11,6 @@
 // @grant GM_openInTab
 // @grant GM_getValue
 // @grant GM_setValue
-// @grant GM_listValues
 // @grant unsafeWindow
 // @updateURL https://github.com/winneon/ab-vndb-autofill/raw/master/vndb.user.js
 // ==/UserScript==
